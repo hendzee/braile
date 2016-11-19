@@ -1,0 +1,99 @@
+body{
+  background: #FFF176;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #F9A825;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #F9A825;
+  font-weight: 300;
+}
+
+input.validate, thead{
+  border-color: #8BC34A;
+}
+
+table{
+  color: #27ae60;
+  font-size: 1em;
+}
+
+.container{
+  background: #FFF176;
+}
+
+.nav-nav{
+  background: transparent;
+  box-shadow: initial;
+}
+
+.nav-nav .nav-wrapper{
+  width: 950px;
+  margin: auto;
+}
+
+.nav-wrapper ul{
+  width: 950px;
+  margin: auto;
+}
+
+div.main-container{
+  padding: 1em;
+  min-height: 530px;
+  min-width: 100%;
+}
+
+div.main-container, .top-container{
+  text-align: center;
+}
+
+.menu{
+  text-align: left;
+}
+
+h5{
+  color: #fff;
+}
+
+h1 span{
+  color: #fff;
+}
+
+.footer-container{
+  text-align: center;
+  margin-top: 1em;
+  min-height: 50px;
+  padding-top: 0.1em;
+}
+
+form, .left-side, .ask-table, #about_me p, #about_me h5{
+  text-align: left;
+}
+
+#about_me i{
+  color: #F44336;
+}
+
+#reset{
+  background: #FF5252;
+}
+
+nav ul a{
+  color: #E57373;
+}
+
+nav ul a:hover, nav ul a:active, nav ul a:focus,  .nav-active{
+  background: transparent;
+  color: #e74c3c;
+  font-size: 1.5em;
+  outline: none;
+}
+
+#result-braile-before, #result-braile-after{
+  border-bottom: 1px solid #4CAF50;
+}
+
+i.braile-active{
+  color: #B71C1C;
+}
